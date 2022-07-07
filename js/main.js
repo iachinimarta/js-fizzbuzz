@@ -26,4 +26,4 @@ for (let i = 1; i <= 100; i++) {
 // Mi conviene impostare una variabile ad es 'boxtesto' che contiene 'i' piuttosto che lavorare con 'i' direttamente.
 // lasciando la variabile 'boxclasse' vuota posso poi modificarla a seconda della necessità che ho.
 // Meglio definire prima tutte le variabili e le operazioni del caso e poi 'stampare'.
-
+// Se definisco una variabile all'interno delle IF quella variabile esisterà solo finchè si lavora in quel blocco di codice. Nel momento in cui il blocco IF sarà finito quella variabile non esisterà più.
